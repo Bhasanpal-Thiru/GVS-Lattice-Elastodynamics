@@ -1,4 +1,5 @@
 # Lattice Elastodynamics: Geometric Vacuum Scaling (GVS)
+[![DOI](https://zenodo.org/badge/1179200212.svg)](https://doi.org/10.5281/zenodo.18968541)
 
 **Author:** Bhasanpal Thiru | Independent Researcher 
 **Manuscript:** *Lattice Elastodynamics: Emergent MOND Phenomenology and Soliton Stability from Discrete Geometric Vacuum Scaling*
